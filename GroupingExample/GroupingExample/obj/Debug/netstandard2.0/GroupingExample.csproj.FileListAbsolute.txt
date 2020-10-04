@@ -1,0 +1,12 @@
+D:\GroupingExample\GroupingExample\GroupingExample\bin\Debug\netstandard2.0\GroupingExample.deps.json
+D:\GroupingExample\GroupingExample\GroupingExample\bin\Debug\netstandard2.0\GroupingExample.dll
+D:\GroupingExample\GroupingExample\GroupingExample\bin\Debug\netstandard2.0\ref\GroupingExample.dll
+D:\GroupingExample\GroupingExample\GroupingExample\bin\Debug\netstandard2.0\GroupingExample.pdb
+D:\GroupingExample\GroupingExample\GroupingExample\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GroupingExample\GroupingExample\GroupingExample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\GroupingExample\GroupingExample\GroupingExample\obj\Debug\netstandard2.0\GroupingExample.AssemblyInfoInputs.cache
+D:\GroupingExample\GroupingExample\GroupingExample\obj\Debug\netstandard2.0\GroupingExample.AssemblyInfo.cs
+D:\GroupingExample\GroupingExample\GroupingExample\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GroupingExample\GroupingExample\GroupingExample\obj\Debug\netstandard2.0\GroupingExample.dll
+D:\GroupingExample\GroupingExample\GroupingExample\obj\Debug\netstandard2.0\ref\GroupingExample.dll
+D:\GroupingExample\GroupingExample\GroupingExample\obj\Debug\netstandard2.0\GroupingExample.pdb
